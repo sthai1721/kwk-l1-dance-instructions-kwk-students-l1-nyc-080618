@@ -44,8 +44,3 @@ def gangnam_style
   lasso
   bust_a_move
 end
-  
-position= gets.chomp.capitalize
-skip_step(position)
-end
-            
